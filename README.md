@@ -3,7 +3,7 @@
 <!--
 **stupendoussuperpowers/stupendoussuperpowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Tech I've worked with: **Node.js, GoLang, React.js, Flutter, MongoDB, MySQL, Redis, Docker**
+- 🔭 Tech I've worked with: **Web + App Dev, DevOps**
 - 🌱 Tech I want to get into: **Operating Systems, Compilers, Open Source**, a bunch of things I don't even know about
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: 
