@@ -1,19 +1,10 @@
-### Hi there 👋 My name is Sanchit.
+### Hi I'm Sanchit.
+
+mostly interested in distributed systems, virtualization, programming languages and much more. currently obsessed with rust. 
+
+developer @ commvault
+contact me: sahaysanchit14@gmail.com
 
 <!--
 **stupendoussuperpowers/stupendoussuperpowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Tech I've worked with: **Web + App Dev, DevOps**
-- 🌱 Tech I want to get into: **Operating Systems, Compilers, Systems, Theoretical CS, Open Source**, and a bunch of things I don't yet know about.
-- 💬 Ask me about: Anything!
-- 📫 How to reach me: 
-  - sahaysanchit14@gmail.com
-  - [Resume](https://drive.google.com/file/d/1EgBWs-sWnCMUG6E9JT-dTOyCc3YZUWtk/view?usp=sharing)
-  - [LinkedIn](https://www.linkedin.com/in/sanchit-sahay-38042714b/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: [MS-DOS's original Assembly code is on GitHub!](https://github.com/microsoft/MS-DOS) PS: I had nothing to do with this though, a fun fact _about me_ would be that I am not at all prepared for a zombie apocalypse
-- :briefcase: Actively looking for internships!
-
-Check pinned repositories for stuff I had fun building
-
-![Stats:](https://github-readme-stats.vercel.app/api?username=stupendoussuperpowers&show_icons=true&hide_border=true)
