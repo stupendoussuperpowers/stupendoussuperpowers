@@ -1,12 +1,14 @@
 ### Hi I'm Sanchit.
 
-Distributed Systems, Virtualization, Programming Languages and much more. Currently obsessed with Rust. 
+Systems & Security.
 
 Grad Student @ NYU Tandon 2024-'26
 
+Researcher with the [Secure Systems Lab](https://ssl.engineering.nyu.edu) working on [Lind-Wasm](https://github.com/Lind-Project) and OpenSSF's [SBOMit](https://github.com/SBOMit/sbomit)
+
 former Commvault Systems (Virtual Server Agent Team), LegalAI (Full-stack Web Developer)
 
-Actively looking for internships!
+Actively seeking full-time opportunities!
 Contact Me: sahaysanchit14@gmail.com
 
 <!--
